@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pancakes</title>
+</head>
+<body>
+  <h1>Pancakes</h1>
+  <img src="https://www.allrecipes.com/thmb/AOmpz3ts_5t2VfXtOnJMSF7fWXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21014-good-old-fashioned-pancakes-mfs-74-4x3-9ab7320540044d1bb881b259c7dfb258.jpg" alt="Pancakes" width="400">
+
+  <h2>Description</h2>
+  <p>Fluffy pancakes are a breakfast favorite. They're quick to whip up and perfect with maple syrup or fresh fruit.</p>
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>1 1/2 cups flour</li>
+    <li>3 1/2 tsp baking powder</li>
+    <li>1 tsp salt</li>
+    <li>1 tbsp sugar</li>
+    <li>1 1/4 cups milk</li>
+    <li>1 egg</li>
+    <li>3 tbsp butter, melted</li>
+  </ul>
+
+  <h2>Steps</h2>
+  <ol>
+    <li>Mix dry ingredients in a bowl.</li>
+    <li>Add milk, egg, and butter; mix until smooth.</li>
+    <li>Pour batter onto a hot griddle.</li>
+    <li>Cook until bubbles form, then flip.</li>
+    <li>Serve warm with syrup or toppings.</li>
+  </ol>
+
+  <p><a href="../index.html">← Back to Home</a></p>
+</body>
+</html>

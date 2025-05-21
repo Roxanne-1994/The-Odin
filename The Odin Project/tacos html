@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tacos</title>
+</head>
+<body>
+  <h1>Tacos</h1>
+  <img src="https://www.allrecipes.com/thmb/GNKU8mOeI8FAYOeHPmN4zEBOzVo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/213742-beef-tacos-mfs-step-4-0279-4x3-bec515e2349c4e6cb8b573f13de27c0f.jpg" alt="Tacos" width="400">
+
+  <h2>Description</h2>
+  <p>Tacos are a traditional Mexican dish filled with meat and topped with veggies, cheese, and sauce. They're great for quick dinners or festive gatherings.</p>
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>8 corn tortillas</li>
+    <li>1 lb ground beef</li>
+    <li>1 packet taco seasoning</li>
+    <li>1 cup shredded lettuce</li>
+    <li>1 diced tomato</li>
+    <li>1 cup shredded cheddar</li>
+    <li>Sour cream and salsa</li>
+  </ul>
+
+  <h2>Steps</h2>
+  <ol>
+    <li>Cook the beef and add taco seasoning.</li>
+    <li>Heat tortillas in a pan.</li>
+    <li>Assemble tacos with beef and toppings.</li>
+    <li>Serve with sour cream and salsa.</li>
+  </ol>
+
+  <p><a href="../index.html">← Back to Home</a></p>
+</body>
+</html>
